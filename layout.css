@@ -1,0 +1,75 @@
+body
+{
+font-family:Sans-serif;
+background-image:url("ep_naturalwhite.jpg");
+/*background-color: #F0F8FF;*/
+}
+div.left
+{
+	   /*margin: 30px;*/
+	   color:grey;
+	   float: left;
+	   width: 250px;
+	   height:120%;
+}
+div.right
+	{
+ 	float:left;
+	}
+header
+{
+	padding: 1px;
+    color: blue;
+    clear: left;
+    text-align: center;
+	font-size:35px;
+}
+div.quote
+{
+ /*float:center;*/
+ color:red;
+ font-size:30px;
+ background-color:#99ffff;
+}
+/*a:link
+{
+    color: blue;
+}*/
+a:visited
+{
+    color: green;
+}
+a:hover
+{
+    color: red;
+}
+a:active
+{
+    color: limegreen;
+}
+table
+{
+  border-collapse: collapse;
+  width: 80%;
+}
+th, td
+{
+    text-align: center;
+    padding: 5px;
+}
+tr:nth-child(even)
+{ 
+background-color: #99bbff;
+}
+.note
+{
+color:red;
+font-weight:Bold;
+}
+
+
+
+
+
+
+
