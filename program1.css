@@ -1,0 +1,107 @@
+div {
+border: 1px solid black;
+
+}
+.home-bg
+{
+background-image:url("background2.jpg");
+}
+div.left
+{
+	   /*margin: 30px;*/
+	   color:grey;
+	   float: left;
+	   width: 250px;
+	   height:120%;
+}
+table
+{
+  border-collapse: collapse;
+  width: 100%;
+}
+h1 {
+    color: #A4A400;
+}
+.recipe-bg
+{
+	background-color:#FFCC00;
+	font-family:Georgia;
+}
+.applecake-bg
+{
+	background-color:#FFCC00;
+	font-family:Georgia;
+}
+div.title
+{
+	background-color:#F0F0F0;
+	color:#A4A400;
+}
+table
+{
+	margin-top:20px;
+	background-color:#CC9933;
+	color:#FFFFFF;
+}
+th
+{
+	background-color:#003366;
+	color:#FFFFFF;
+	border:2px;
+	border-color:#FFFFFF;
+	cell-padding:5px;
+	
+}
+td
+{
+		border:2px;
+	border-color:#FFFFFF;
+	cell-padding:5px;
+	
+}
+h2
+{
+	color:#CD5C5C;
+	text-decoration:underline;
+	text-align:center;
+	
+}
+span.design
+{
+	font-weight:bold;
+	color:#CD5C5C;
+}
+.pcolour
+{
+	color:#0000ff;
+}
+.sideheadings
+{
+	color:#CD5C5C;
+	text-decoration:underline;
+	
+}
+/*
+ul 
+{
+    list-style-image: url('sqpurple.gif');
+	
+	
+}
+*/
+ul.bull1 li:before {
+  content: '\00BB';   /* code Hex notation */
+  padding-right: 8px;
+  color:#0000be;
+}
+.marquee{
+	height:50px;
+	overflow:hidden;
+	color:blue;
+	position:relative;
+}
+
+
+
+
+	

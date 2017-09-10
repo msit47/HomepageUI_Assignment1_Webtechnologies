@@ -1,0 +1,26 @@
+HTML Links:
+
+Home page:
+
+http://codd.cs.gsu.edu/~smedisetty1/Assignment2/program1.html
+
+Recipe1:
+
+http://codd.cs.gsu.edu/~smedisetty1/Assignment2/recipe.html
+
+Recipe2:
+
+http://codd.cs.gsu.edu/~smedisetty1/Assignment2/third.html
+-----------------------------------------------------------------
+
+
+CSS Links:
+
+http://codd.cs.gsu.edu/~smedisetty1/Assignment2/program1.css
+
+
+--------------------------------------------------------------------
+
+
+
+Github Links:
